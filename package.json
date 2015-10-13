@@ -1,0 +1,14 @@
+{
+  "name": "xml",
+  "version": "0.0.0",
+  "description": "XML Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xml"
+  ],
+  "author": "Craig Jacobson",
+  "license": "MIT"
+}
