@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf8" ?>
+<!-- This is a comment. - With a dash. -->
+<!DOCTYPE PUBLIC stuff otherstuff >
+junk should be spit out as text ]]
+<root>
+    whitespace should be preserved
+
+  <subelement some:name="hello" another-name='world'>
+    <empty-element/>
+  </subelement>
+</root>
